@@ -69,5 +69,5 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md
 
 ## Modifications
-Mod
+Mod 2
 
